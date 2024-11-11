@@ -1,2 +1,13 @@
 Use this file to submit the extra credit problem. Be sure to describe your
 process for solving the problem, and not just to give the solution. 
+
+% 'I wish it need not have happened in my time,' said Frodo.
+% ‘So do I,’ said Gandalf, ‘and so do all who live to see such times.
+% But that is not for them to decide. All we have to decide is what
+% to do with the time that is given us.’
+
+% I used brute force to decode the Ceaser Cipher. 
+% Knowing that the first word was either "A" or "I"
+% I shifted first by 3 to "I" then used the same shift 
+% on the second word to see of it made sense.
+% I was lucky and the shift of 3 was correct. 
